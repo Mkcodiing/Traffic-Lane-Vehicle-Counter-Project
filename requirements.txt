@@ -1,0 +1,7 @@
+ultralytics
+deep-sort-realtime
+pytube
+opencv-python
+pandas
+tqdm
+ffmpeg-python

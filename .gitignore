@@ -1,0 +1,10 @@
+venv/
+*.pyc
+__pycache__/
+input_video.mp4
+output.mp4
+demo_clip.mp4
+*.log
+*.mp4
+*.avi
+*.mov
